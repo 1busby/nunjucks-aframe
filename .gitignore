@@ -1,0 +1,14 @@
+/aframe-boilerplate
+/node_modules
+
+npm-debug.log
+/typings
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extenstions.json
+
+.DS_Store
+Thumbs.db
